@@ -2,7 +2,7 @@ const ROUTES = [
   {
     prefix: "/exhibition",
     envKey: "EXHIBITION_ORIGIN",
-    fallbackOrigin: "",
+    fallbackOrigin: "https://amu-exhibition.pages.dev",
   },
   {
     prefix: "/culture",
